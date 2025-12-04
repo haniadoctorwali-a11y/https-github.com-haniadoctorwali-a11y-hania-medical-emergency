@@ -1,0 +1,7 @@
+{
+  "name": "Hania Medical Emergency",
+  "description": "A comprehensive AI medical assistant for Pakistan providing information on doctors, specialists, and hospitals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
